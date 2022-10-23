@@ -10,7 +10,7 @@
 
 - :school: I'm [Claudio](https://fabianko.github.io/) :chile:, I have a certification degree as fullstack developer with java from Adalid, Chile
 - 🔭 I’m currently working on **NTTData**
-- :neutral_face: I'm interested in growing my relationship with **Programming**
+- :neutral_face: I'm interested in growing my relationship with **devOps coding**
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder**
