@@ -11,7 +11,7 @@
 - :school: I'm [Claudio](https://fabianko.github.io/) :chile:, I have a certification degree as fullstack developer with java from Adalid, Chile
 - 🔭 I’m currently working on **NTTData**
 - :neutral_face: I'm interested in growing my relationship with **GitHub use**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Jenkins**
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder**
 </br>
