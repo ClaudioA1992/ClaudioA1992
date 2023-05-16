@@ -1,6 +1,7 @@
 <h1 style="color:green"> Hi there, i'm Claudio 👋 </h1>
 
-![Perfil de Linkedin](https://visitor-badge.glitch.me/badge?page_id=github.com/ClaudioA1992) ![Linkedin Badge](https://img.shields.io/badge/-claudio.torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-torres-1a7008149/)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/ClaudioA1992) 
+![Linkedin Badge](https://img.shields.io/badge/-claudio.torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-torres-1a7008149/)
 
 ![Claudio's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=claudioa1992&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)![topLangs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudioa1992&layout=compact&count_private=true&theme=chartreuse-dark&langs_count=10)
 
