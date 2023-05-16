@@ -9,10 +9,10 @@
 <img src='img/Monkey_Kid_Coding.gif' align='left'>
 <h3 align="left" style="color:green">About me:</h3>
 
-- :school: I'm [Claudio](https://claudiorowe.github.io/) :chile:, I have a certification degree as fullstack developer with java from Adalid, Chile
+- :school: I'm [Claudio](https://claudiorowe.github.io/) :chile:, I have a certification degree as fullstack developer on Java from Adalid, Chile
 - 🔭 I’m currently working on **NTTData**
 - :neutral_face: I'm interested in growing my relationship with **C#**
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **C# and Android stack**
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder**
 </br>
