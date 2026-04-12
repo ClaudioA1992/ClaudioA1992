@@ -12,7 +12,7 @@
 - :school: I'm [Claudio](https://claudiorowe.github.io/) :chile:, I have a certification degree as fullstack developer on Java from Adalid, Chile, and as an Android Stack dev from the same entity. Actually i'm studying Informatics Engineering.
 - 🔭 I’m currently working on **a social media project**
 - :neutral_face: I'm interested in growing my relationship with **Testing**
-- 🌱 I’m currently learning **Python and advancing in Angular and Java knoledge**
+- 🌱 I’m currently learning **Python and advancing in Angular and Java knowledge**
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder**
 </br>
