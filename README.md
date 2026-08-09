@@ -1,16 +1,16 @@
 <h1 style="color:green"> Hi there, i'm Claudio 👋 </h1>
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=github.com/ClaudioA1992) 
-![Linkedin Badge](https://img.shields.io/badge/-claudio.torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-torres-1a7008149/)-->
-![Claudio's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=claudioa1992&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)
+![Linkedin Badge](https://img.shields.io/badge/-claudio.torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-torres-burgos/)-->
+![Claudio's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=claudioat1992&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)
 </br>
-![topLangs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudioa1992&layout=compact&count_private=true&theme=chartreuse-dark&langs_count=10)
+![topLangs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudioat1992&layout=compact&count_private=true&theme=chartreuse-dark&langs_count=10)
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='img/Monkey_Kid_Coding.gif' align='left'>
 <h3 align="left" style="color:green">About me:</h3>
 
-- :school: I'm [Claudio](https://claudiorowe.github.io/) :chile:, I have a certification degree as fullstack developer on Java from Adalid, Chile, and as an Android Stack dev from the same entity. Actually i'm studying Informatics Engineering.
+- :school: I'm [Claudio](https://claudioat1992.github.io/) :chile:, I have a certification degree as fullstack developer on Java from Adalid, Chile, and as an Android Stack dev from the same entity. Actually i'm studying Informatics Engineering.
 - 🔭 I’m currently working on **a social media project**
 - :neutral_face: I'm interested in growing my relationship with **Testing**
 - 🌱 I’m currently learning **Python and advancing in Angular and Java knowledge**
