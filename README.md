@@ -1,6 +1,6 @@
 <h1 style="color:green"> Hi there, i'm Claudio 👋 </h1>
 
-<!--![](https://visitor-badge.glitch.me/badge?page_id=github.com/ClaudioA1992) 
+<!--![](https://visitor-badge.glitch.me/badge?page_id=github.com/ClaudioAT1992) 
 ![Linkedin Badge](https://img.shields.io/badge/-claudio.torres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-torres-burgos/)-->
 ![Claudio's Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=claudioat1992&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)
 </br>
